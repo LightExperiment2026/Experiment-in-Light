@@ -4,7 +4,11 @@
 
 Listen here:
 
-[Play / Download Experiment in Light](https://drive.google.com/drive/folders/1RjcJXme8j6TIKjf6gh5YiioUN1LDAhC7)
+[Play Experiment in Light on Google Drive](https://drive.google.com/file/d/1dsLFwcvPQWApl7u5EgV8cQBTNe9FRP-9/view?usp=drivesdk)
+
+Download here:
+
+[Download MP3 from GitHub](./Experiment-In-Light.mp3)
 ## Lawful Transparency Framework
 
 Experiment in Light is a lawful, truth-first transparency framework designed to help people separate real-world facts from administrative confusion.
