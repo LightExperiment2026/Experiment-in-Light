@@ -4,11 +4,7 @@
 
 Listen here:
 
-<audio controls>
-  <source src="./Experiment-In-Light.mp3" type="audio/mpeg">
-</audio>
-
-[Download / Listen to the song](./Experiment-In-Light.mp3)
+[Play / Download Experiment in Light](./Experiment-In-Light.mp3)
 ## Lawful Transparency Framework
 
 Experiment in Light is a lawful, truth-first transparency framework designed to help people separate real-world facts from administrative confusion.
