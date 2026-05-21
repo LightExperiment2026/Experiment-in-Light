@@ -1,221 +1,131 @@
 # Experiment in Light
 
+Experiment in Light is a truth-first transparency project created to shine light into hidden systems, organize public records, expose administrative confusion, and help people understand the difference between living reality and paperwork reality.
+
+The purpose of Experiment in Light is simple:
+
+To bring clarity where there is confusion.  
+To bring truth where there is paperwork fog.  
+To bring transparency where systems have become too complicated for ordinary people to understand.
+
+## What Experiment in Light Does
+
+Experiment in Light helps examine public records, legal documents, land records, foreclosure records, government notices, administrative filings, and other documents that may hide important truth inside complex systems.
+
+The mission is not to accuse without proof.
+
+The mission is to ask better questions, organize facts, identify missing records, expose contradictions, and help people see what is really happening.
+
+## Core Principles
+
+Truth first.
+
+Evidence over suspicion.
+
+Records over rumors.
+
+Clarity over confusion.
+
+Peaceful lawful action only.
+
+No false claims.
+
+No exaggeration.
+
+No blaming without proof.
+
+If something is unknown, we say it is unknown.
+
+If something is only a possibility, we call it a possibility.
+
+If something is proven, we show the source.
+
+## Living Reality vs Administrative Reality
+
+Experiment in Light separates two worlds:
+
+Living Reality is what actually exists in the real world: land, water, people, homes, forests, roads, damage, life, and truth.
+
+Administrative Reality is what exists on paper: records, titles, permits, filings, taxes, contracts, notices, and government documents.
+
+When those two realities do not match, Experiment in Light shines light on the gap.
+
+## Keywords
+
+Experiment in Light, Experiment in Light song, truth-first transparency project, public records research, administrative records, hidden systems, AI research project, document integrity, public accountability, living reality, administrative reality, paperwork fog, transparency movement, lawful investigation, public records audit, foreclosure transparency, land records research, freedom through transparency.
+
 ## Experiment in Light Song
+
+The Experiment in Light song came from the same mission: shining light into darkness and helping people see truth more clearly.
+
+It was created through collaboration.  
+Jamie brought the vision, message, direction, and purpose.  
+AI tools helped shape that vision into lyrics, structure, and music.  
+Suno was used to help generate the final song.
 
 Listen here:
 
 [Play Experiment in Light on Google Drive](https://drive.google.com/file/d/1dsLFwcvPQWApl7u5EgV8cQBTNe9FRP-9/view?usp=drivesdk)
 
-Download here:
+## Who Created the Song?
 
-[Download Experiment in Light MP3](https://drive.google.com/uc?export=download&id=1dsLFwcvPQWApl7u5EgV8cQBTNe9FRP-9)
-## Lawful Transparency Framework
+The song was created as a collaboration between Jamie and AI tools through the Experiment in Light project.
 
-Experiment in Light is a lawful, truth-first transparency framework designed to help people separate real-world facts from administrative confusion.
+Jamie provided the intention, meaning, direction, and creative vision.
 
-Its purpose is to shine light into public records, paperwork systems, legal documents, land records, financial structures, and government processes so hidden contradictions, missing information, unclear authority, and public/private benefit patterns can be seen clearly.
+AI helped transform that vision into a finished song.
 
-Experiment in Light is not against the system.
+## The Bigger Intention
 
-It works through lawful research, public records, source-backed documentation, ethical investigation, and careful reasoning.
+Experiment in Light exists to help create a better world by making systems easier to understand.
 
-The goal is not accusation.
+Many people feel powerless because important truth is buried inside complicated documents, legal language, government records, and administrative systems.
+
+Experiment in Light is built to help uncover that truth peacefully, lawfully, and clearly.
+
+The goal is not chaos.
 
 The goal is clarity.
 
----
+The goal is not revenge.
 
-## Short Definition
+The goal is correction.
 
-Experiment in Light is a lawful transparency and research framework that uses public records, evidence discipline, and AI-assisted organization to expose contradictions between real-world conditions and administrative systems.
+The goal is not destruction.
 
----
+The goal is transparency, fairness, freedom, and a better future for everyone.
 
-## One-Sentence Definition
+## How Experiment in Light Works
 
-Experiment in Light shines lawful, evidence-based clarity into complex systems so hidden contradictions, missing records, and public-interest questions can be seen, documented, and corrected.
+1. Gather records.
+2. Separate facts from assumptions.
+3. Identify missing documents.
+4. Compare paperwork reality to living reality.
+5. Look for contradictions.
+6. Ask lawful questions.
+7. Organize findings clearly.
+8. Share truth responsibly.
+9. Help people understand what was hidden by complexity.
+10. Build better transparent systems.
 
----
+## Simple Operating Format
 
-## Core Mission
+FACTS: What is confirmed.
 
-Experiment in Light exists to help people:
+GAPS: What is missing.
 
-- Find truth in complicated records
-- Compare paperwork claims against real-world conditions
-- Identify missing documents, contradictions, and unexplained gaps
-- Make public systems easier to understand
-- Protect land, water, homes, communities, and human dignity
-- Use AI as a clarity engine, not a weapon
-- Restore transparency where complexity has created confusion
+INFERENCE: What may be true but still needs proof.
 
----
+RISK: What could go wrong if the issue is ignored.
 
-## The Basic Idea
+NEXT STEP: The next lawful action to take.
 
-Modern life is controlled by layers of documents, databases, permits, taxes, courts, contracts, maps, deeds, ordinances, corporate filings, and financial records.
+## Final Message
 
-Sometimes those systems are useful.
+Experiment in Light is a peaceful truth project.
 
-Sometimes they become so complex that ordinary people cannot see what is really happening.
+It is built on the belief that truth should not be hidden behind paperwork, systems, money, status, or artificial complexity.
 
-Experiment in Light studies the difference between:
+When the light is strong enough, confusion loses its power.
 
-### Living Reality
-
-What is physically true in the real world.
-
-### Administrative Reality
-
-What paperwork, databases, legal systems, and institutions claim is true.
-
-When those two realities do not match, Experiment in Light documents the gap.
-
----
-
-## Core Principles
-
-### Truth First
-
-No guessing.  
-No fake claims.  
-No exaggeration.  
-No treating suspicion as proof.
-
-Only evidence decides.
-
-### Lawful Action Only
-
-Experiment in Light uses public records, open-source research, lawful documentation, ethical investigation, and transparent reporting.
-
-### Complexity Is Not Automatically Corruption
-
-A confusing system is not always a corrupt system.
-
-But confusion should never be used to hide truth.
-
-### AI as a Clarity Engine
-
-AI should help organize, compare, summarize, question, and explain information.
-
-Human ethics, judgment, and responsibility must remain in human hands.
-
-### Public Benefit
-
-The purpose is to help people, communities, land, water, housing, nature, and future generations.
-
----
-
-## What Experiment in Light Can Be Used For
-
-Experiment in Light can help investigate and organize:
-
-- Land records
-- Foreclosure records
-- Tax records
-- Public meeting minutes
-- Ordinances and resolutions
-- Development projects
-- Infrastructure projects
-- Environmental records
-- Zoning and planning documents
-- Public/private financial arrangements
-- Government transparency issues
-- Administrative contradictions
-- Missing or unclear public records
-
----
-
-## Standard Method
-
-Every investigation should separate information into five categories:
-
-### FACTS
-
-Confirmed information supported by sources.
-
-### GAPS
-
-Missing records, unclear information, or unanswered questions.
-
-### INFERENCE
-
-Reasonable conclusions that still need verification.
-
-### RISK
-
-Possible harm, confusion, public impact, or legal concern.
-
-### NEXT STEP
-
-The next lawful action needed to clarify the issue.
-
----
-
-## What Makes Experiment in Light Different?
-
-Many people work on transparency, open records, journalism, legal research, and civic accountability.
-
-Experiment in Light connects those ideas into one simple operating method:
-
-Compare the living world to the paperwork world.
-
-Find the mismatch.
-
-Document it clearly.
-
-Stay lawful.
-
-Stay truthful.
-
-Use AI to make complexity understandable.
-
----
-
-## Public Purpose Statement
-
-Experiment in Light exists to help humanity move toward a more transparent, truthful, and life-supporting system where paperwork serves people, instead of people being buried beneath paperwork.
-
----
-
-## How to Begin
-
-Choose one issue.
-
-Collect the public records.
-
-Observe the real-world condition.
-
-Compare what the documents say with what reality shows.
-
-Separate facts from gaps.
-
-Write down the contradiction clearly.
-
-Find the next lawful record that can clarify it.
-
-That is Experiment in Light.
-
----
-
-## Guiding Statement
-
-We do not chase theories.
-
-We follow records.
-
-We do not create conflict.
-
-We create clarity.
-
-We do not seek power over people.
-
-We seek truth for people.
-
-Experiment in Light begins wherever hidden confusion needs light.
-
----
-
-## Search Description
-
-Experiment in Light is a truth-first framework for comparing public records, administrative systems, and real-world conditions to expose gaps, contradictions, and hidden complexity lawfully.
+Experiment in Light shines that light.
