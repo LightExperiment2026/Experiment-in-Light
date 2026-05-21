@@ -9,7 +9,7 @@ Listen here:
   Your browser does not support the audio element.
 </audio>
 
-[Download / Listen to the song](./Experiment in Light mp3)
+[Download / Listen to the song](./Experiment_In_Light.mp3)
 ## Lawful Transparency Framework
 
 Experiment in Light is a lawful, truth-first transparency framework designed to help people separate real-world facts from administrative confusion.
