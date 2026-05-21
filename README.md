@@ -5,7 +5,7 @@
 Listen here:
 
 <audio controls>
-  <source src="./Experiment_In_Light.mp3.mp3" type="audio/mpeg">
+  <source src="./Experiment_In_Light.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
